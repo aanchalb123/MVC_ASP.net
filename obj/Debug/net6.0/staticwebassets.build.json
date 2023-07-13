@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "XnB5vLaPCnyWqmAmZhJ9Wh4TL+tJqxV+x4GGfnIYnzQ=",
+  "Source": "ControllerDemo",
+  "BasePath": "_content/ControllerDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerDemo\\wwwroot",
+      "Source": "ControllerDemo",
+      "ContentRoot": "D:\\Dev\\C# Training\\ControllerDemo\\wwwroot\\",
+      "BasePath": "_content/ControllerDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Dev\\C# Training\\ControllerDemo\\wwwroot\\files\\sample.pdf",
+      "SourceId": "ControllerDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\C# Training\\ControllerDemo\\wwwroot\\",
+      "BasePath": "_content/ControllerDemo",
+      "RelativePath": "files/sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\sample.pdf"
+    }
+  ]
+}

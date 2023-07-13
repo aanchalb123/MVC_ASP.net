@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Dev\\C# Training\\ControllerDemo\\wwwroot\\files\\sample.pdf",
+      "PackagePath": "staticwebassets\\files\\sample.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ControllerDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ControllerDemo.props",
+      "PackagePath": "build\\ControllerDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllerDemo.props",
+      "PackagePath": "buildMultiTargeting\\ControllerDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ControllerDemo.props",
+      "PackagePath": "buildTransitive\\ControllerDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
